@@ -52,11 +52,6 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 </p>
 
 
--------------------
-
-## 📊 GitHub Stats
-  
-![Marcos Valera](https://github-readme-stats.vercel.app/api?username=Benway100&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 
 </div>
