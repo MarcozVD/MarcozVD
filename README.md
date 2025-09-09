@@ -1,8 +1,8 @@
 <div align="center">
   
 ## 👨‍💻 About Me
-Hi there! 👋 I'm **Jaime Alejandro Vega Barbosa**, a **Systems Engineering student** and passionate **full stack developer**.  
-I love building web applications using **HTML, CSS, JavaScript, React, and Node.js**, and I also enjoy coding in **Python and Java**.  
+Hi! 👋 I’m **Marcos Valera Daza**, a Systems Engineering student and enthusiastic full stack developer.
+I enjoy designing and building web applications with HTML, CSS, JavaScript, React, and Node.js, as well as creating desktop applications with Electron. I also like programming with Python and Java to tackle different challenges.
 
 I’m focused on improving my skills, creating useful projects, and growing as a developer every day 🚀  
 
