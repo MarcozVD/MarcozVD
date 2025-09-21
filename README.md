@@ -11,7 +11,7 @@ I’m focused on improving my skills, creating useful projects, and growing as a
 ## 📬 Contact
 <a href="mailto:mmvaleradaza@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/marcos-valera-daza-a702b0350/">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>  
-<a href="https://github.com/Benway100">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://github.com/MarcozVD">![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)</a>
 
 -------------------
 
