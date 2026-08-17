@@ -107,18 +107,6 @@ FocusFlow explores the concept of an **AI Personal Time Manager**, combining cal
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MarcozVD&show_icons=true&theme=transparent&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcozVD&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 💻 Build · Break · Learn · Improve
