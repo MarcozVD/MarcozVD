@@ -88,7 +88,7 @@ Experience with **Linux environments, Kali Linux, Fedora Server, Ubuntu, WSL, Ba
 
 An **AI-powered desktop productivity and calendar application** built with:
 
-`React` · `Electron` · `Node.js` · `JavaScript` · `AI APIs`
+`React` · `Tauri 2` · `Node.js` · `JavaScript` · `AI APIs`
 
 FocusFlow explores the concept of an **AI Personal Time Manager**, combining calendar management, task organization, email context, intelligent scheduling and automation.
 
