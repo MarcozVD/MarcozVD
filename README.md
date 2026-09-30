@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marcos
+#  Hi, I'm Marcos
 
 ### Systems Engineering Student · Full-Stack Developer · AI & Linux Enthusiast
 
@@ -8,7 +8,7 @@ I enjoy working across the stack, from **UI/UX and frontend development to backe
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -38,14 +38,14 @@ I enjoy working across the stack, from **UI/UX and frontend development to backe
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge\&logo=jetpackcompose\&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 📊 Data & Machine Learning
+###  Data & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
@@ -53,7 +53,7 @@ I enjoy working across the stack, from **UI/UX and frontend development to backe
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge\&logo=xgboost\&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
-### 🤖 AI & LLMs
+###  AI & LLMs
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge\&logo=googlegemini\&logoColor=white)
@@ -61,7 +61,7 @@ I enjoy working across the stack, from **UI/UX and frontend development to backe
 
 **AI Agents · LLM APIs · Prompt Engineering · Model Orchestration · AI-assisted Development**
 
-### 🐧 Linux & Systems
+###  Linux & Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white)
@@ -82,9 +82,9 @@ Experience with **Linux environments, Kali Linux, Fedora Server, Ubuntu, WSL, Ba
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### ⚡ FocusFlow
+###  FocusFlow
 
 An **AI-powered desktop productivity and calendar application** built with:
 
@@ -94,22 +94,22 @@ FocusFlow explores the concept of an **AI Personal Time Manager**, combining cal
 
 ---
 
-## 🧠 What I'm Interested In
+##  What I'm Interested In
 
-* 🤖 Artificial Intelligence & AI Agents
-* 💻 Full-Stack Development
-* 🐧 Linux & Server Administration
-* 🔐 Cybersecurity
-* ⚙️ Automation & Developer Tools
-* 🗄️ Databases & Backend Architecture
-* 🎨 UI/UX & Interactive Interfaces
-* ☁️ Cloud & Self-Hosted Infrastructure
+*  Artificial Intelligence & AI Agents
+*  Full-Stack Development
+*  Linux & Server Administration
+*  Cybersecurity
+*  Automation & Developer Tools
+*  Databases & Backend Architecture
+*  UI/UX & Interactive Interfaces
+*  Cloud & Self-Hosted Infrastructure
 
 ---
 
 <div align="center">
 
-### 💻 Build · Break · Learn · Improve
+###  Build · Break · Learn · Improve
 
 </div>
 
